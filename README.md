@@ -4,6 +4,6 @@ Created a shiny application that investigated word counts through Shakespeare Pl
 
 <hr>
 <h6> Shakespeare Plays
-  1. The Merchant of Venice
-  2. The Tragedy of Romeo And Juliet
-  3. A Midsummer Night's Dream
+  * The Merchant of Venice
+  * The Tragedy of Romeo And Juliet
+  * A Midsummer Night's Dream
