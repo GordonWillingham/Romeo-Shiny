@@ -2,6 +2,8 @@
 # Authors : Gordon Willingham
 Created a shiny application that investigated word counts through Shakespeare Plays
 
+# You can access my app here [here](https://willinghamgordon.shinyapps.io/problem-set-3-Willingham/)
+
 ## How to re-create the application
 1. Download the Shakespeare folder
 2. Open the R Project
